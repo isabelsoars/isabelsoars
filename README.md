@@ -2,7 +2,7 @@
 
 🚀 Em construção: código, mente e vida  
 💻 Estudando Análise e Desenvolvimento de Sistemas  
-🔥 Saindo do zero na programação (sem romantizar, é difícil mesmo)  
+🔥 O que ninguém te conta: é difícil pra caralho, mas eu não vou parar
 🎯 Focada em evoluir todos os dias e entrar na área de tecnologia  
 
 ---
@@ -32,7 +32,7 @@
 ### 🤖 Em evolução
 
 - Inteligência Artificial aplicada no dia a dia  
-- Criação com IA (conteúdo, imagens e automações simples)  
+- Criação com IA (conteúdo, imagens)  
 - Lógica de programação  
 - Construção de projetos práticos 
 
@@ -47,13 +47,13 @@ Conseguir minha primeira oportunidade na área de tecnologia e crescer com consi
 ### 📲 Onde me encontrar
 
 <div align="center"> 
-  <a href="https://instagram.com/_soaresebel" target="_blank">
+  <a href="https://instagram.com/_soaresbel" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://discord.gg/FhjPvC38" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
-  <a href="mailto:isabelsoars@gmail.com">
+  <a href="isabelsoars@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/isabelsoars/" target="_blank">
