@@ -2,8 +2,9 @@
 
 🚀 Em construção: código, mente e vida  
 💻 Estudando Análise e Desenvolvimento de Sistemas  
-🔥 O que ninguém te conta: é difícil pra caralho, mas eu não vou parar
-🎯 Focada em evoluir todos os dias e entrar na área de tecnologia  
+🔥 O que ninguém te conta: é difícil pra caralho, mas eu não vou parar   
+🎯 Focada em evoluir todos os dias e entrar na área de tecnologia 
+  
 
 ---
 
